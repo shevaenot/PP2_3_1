@@ -20,13 +20,6 @@ public class User {
 
     public User() {
     }
-
-//    public User(String name, String surname, int age) {
-//        this.name = name;
-//        this.surname = surname;
-//        this.age = age;
-//    }
-
     public int getId() {
         return id;
     }
